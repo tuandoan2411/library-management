@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650606993 source:d:\library management\main.cpp
+	<graphics.h>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+	<ctime>
+	<iostream>
+	<iomanip>
+
